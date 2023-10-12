@@ -131,7 +131,7 @@ header {
 }
 
 .cond {
-    background: url(/assets/images/cond/bg.png);
+    background: url(assets/images/cond/bg.png);
     background-size: 150% 150%;
     background-position: 50% 70%;
     padding-bottom: 200px;
@@ -341,7 +341,7 @@ header {
 }
 
 .order {
-    background: url('../assets/images/order/Eclipse.png');
+    background: url(assets/images/order/Eclipse.png);
     background-size: cover;
 }
 
@@ -682,7 +682,7 @@ footer {
     }
 
     .order {
-        background: url(/assets/images/order/Eclipse.png);
+        background: url(assets/images/order/Eclipse.png);
         background-size: 155% 110%;
         background-position: 60% 135%;
     }
@@ -985,7 +985,7 @@ footer {
     }
 
     .order {
-        background: url(/assets/images/order/Eclipse.png);
+        background: url(assets/images/order/Eclipse.png);
         background-size: 160% 110%;
         background-position: 54% 200%;
     }
